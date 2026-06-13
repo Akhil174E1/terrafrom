@@ -1,0 +1,1 @@
+This project is about production level creation of RDS database and read replica for that and also creation of Redis cache with dedicated security groups
